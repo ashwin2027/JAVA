@@ -70,3 +70,4 @@ function sumOfSquares(arr) {
 const array3 = [1, 2, 3, 4, 5];
 console.log(sumOfSquares(array3)); 
 
+
